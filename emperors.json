@@ -1,36 +1,36 @@
 [{
 		"emperor": "Augustus Caesar",
-		"reign": "27 BC –  14",
+		"reign": "27 BC -  14",
 		"stability_ranking": 9,
 		"description": "Augustus was the first Roman Emperor and is considered to have brought stability to the empire after a period of civil war. During his reign, the Roman Empire saw a period of relative peace and prosperity."
 	},
 	{
 		"emperor": "Tiberius",
-		"reign": " 14 – 37",
+		"reign": " 14 - 37",
 		"stability_ranking": 7,
 		"description": "Tiberius was Augustus Caesar's successor, and the empire remained stable during his rule. However, there were some political tensions and rumors of Tiberius's misrule."
 	},
 	{
 		"emperor": "Caligula",
-		"reign": " 37 – 41",
+		"reign": " 37 - 41",
 		"stability_ranking": 2,
 		"description": "Caligula's reign was marked by cruelty, megalomania, and political instability. The empire was not stable during his rule."
 	},
 	{
 		"emperor": "Claudius",
-		"reign": " 41 – 54",
+		"reign": " 41 - 54",
 		"stability_ranking": 7,
 		"description": "Claudius was known for his ministrative abilities and brought stability to the empire after the chaotic reign of Caligula."
 	},
 	{
 		"emperor": "Nero",
-		"reign": "54 – 68",
+		"reign": "54 - 68",
 		"stability_ranking": 4,
 		"description": "Nero's reign was marked by tyranny, cruelty, and political instability. He is infamous for blaming Christians for the Great Fire of Rome and for his persecution of the early Christian community."
 	},
 	{
 		"emperor": "Galba",
-		"reign": "68 – 69",
+		"reign": "68 - 69",
 		"stability_ranking": 6,
 		"description": "Galba's reign was brief, but the empire remained relatively stable."
 	},
@@ -48,13 +48,13 @@
 	},
 	{
 		"emperor": "Vespasian",
-		"reign": "69 – 79",
+		"reign": "69 - 79",
 		"stability_ranking": 8,
 		"description": "Vespasian was a competent ruler and brought stability to the empire after a period of civil war."
 	},
 	{
 		"emperor": "Titus",
-		"reign": "79 – 81",
+		"reign": "79 - 81",
 		"stability_ranking": 8,
 		"description": "Titus was an able ruler and continued the stability brought by his father Vespasian."
 	},
@@ -66,37 +66,37 @@
 	},
 	{
 		"emperor": "Nerva",
-		"reign": "96–98",
+		"reign": "96-98",
 		"stability_ranking": 8,
 		"description": "Nerva was known for his efforts to restore stability and conciliate the Senate, as well as for his option of the future emperor Trajan."
 	},
 	{
 		"emperor": "Trajan",
-		"reign": "98–117",
+		"reign": "98-117",
 		"stability_ranking": 9,
 		"description": "Trajan was known for his military conquests, expansion of the empire, and construction projects, as well as for his humane treatment of conquered peoples."
 	},
 	{
 		"emperor": "Hrian",
-		"reign": "117–138",
+		"reign": "117-138",
 		"stability_ranking": 8,
 		"description": "Hrian was known for his travels throughout the empire, building projects, and policy of defending the empire's borders, but also for his cruelty and persecution of Christians."
 	},
 	{
 		"emperor": "Antoninus Pius",
-		"reign": "138–161",
+		"reign": "138-161",
 		"stability_ranking": 9,
 		"description": "Antoninus Pius was known for his mildness, justice, and wise ministration, as well as for his policy of maintaining peace within the empire."
 	},
 	{
 		"emperor": "Marcus Aurelius",
-		"reign": "161–180",
+		"reign": "161-180",
 		"stability_ranking": 8,
 		"description": "Marcus Aurelius was known for his Stoic philosophy, military campaigns against inving tribes, and his efforts to improve the ministration of the empire, but also for the plague that swept through the empire during his reign."
 	},
 	{
 		"emperor": "Commodus",
-		"reign": "180–192",
+		"reign": "180-192",
 		"stability_ranking": 6,
 		"description": "Commodus was known for his military campaigns, lavish lifestyle, and patronage of the arts, but also for his cruelty, megalomania, and the decline of the empire during his reign."
 	},
@@ -114,37 +114,37 @@
 	},
 	{
 		"emperor": "Septimius Severus",
-		"reign": " 193–211",
+		"reign": " 193-211",
 		"stability_ranking": 7,
 		"description": "Effective military leer who stabilized the empire after the tumultuous period following Commodus' reign."
 	},
 	{
 		"emperor": "Caracalla",
-		"reign": " 211–217",
+		"reign": " 211-217",
 		"stability_ranking": 5,
 		"description": "Known for his cruelty and expansion of Roman citizenship, but also marked by political instability and military defeat."
 	},
 	{
 		"emperor": "Macrinus",
-		"reign": " 217–218",
+		"reign": " 217-218",
 		"stability_ranking": 4,
 		"description": "First equestrian emperor, but faced opposition and military defeat."
 	},
 	{
 		"emperor": "Elagabalus",
-		"reign": " 218–222",
+		"reign": " 218-222",
 		"stability_ranking": 2,
 		"description": "Notoriously decent and unstable reign marked by religious controversy and political assassinations."
 	},
 	{
 		"emperor": "Alexander Severus",
-		"reign": " 222–235",
+		"reign": " 222-235",
 		"stability_ranking": 6,
 		"description": "Attempted to restore stability to the empire, but faced opposition and military defeat."
 	},
 	{
 		"emperor": "Maximinus Thrax",
-		"reign": "235–238",
+		"reign": "235-238",
 		"stability_ranking": 4,
 		"description": "Maximinus Thrax was a tough and aggressive military commander who ruled with an iron fist but was unable to effectively govern the empire."
 	},
@@ -168,25 +168,25 @@
 	},
 	{
 		"emperor": "Gordian III",
-		"reign": "238–244",
+		"reign": "238-244",
 		"stability_ranking": 5,
 		"description": "Gordian III was a young and inexperienced emperor who faced numerous challenges during his reign, but was able to maintain stability for a time."
 	},
 	{
 		"emperor": "Philip the Arab",
-		"reign": "244–249",
+		"reign": "244-249",
 		"stability_ranking": 4,
 		"description": "Philip the Arab faced numerous challenges during his reign, including economic problems and threats from inving Germanic tribes."
 	},
 	{
 		"emperor": "Decius",
-		"reign": "249–251",
+		"reign": "249-251",
 		"stability_ranking": 4,
 		"description": "Decius was a strong military leer who me efforts to revive the tritional Roman values, but his reign was marked by political instability and conflict with inving Germanic tribes."
 	},
 	{
 		"emperor": "Gallus",
-		"reign": "251–253",
+		"reign": "251-253",
 		"stability_ranking": 2,
 		"description": "Gallus was a weak and ineffective emperor who was unable to assert his authority and maintain stability, leing to his eventual downfall."
 	},
@@ -198,133 +198,133 @@
 	},
 	{
 		"emperor": "Valerian",
-		"reign": "253–260",
+		"reign": "253-260",
 		"stability_ranking": 4,
 		"description": "Valerian was an experienced military leer who faced numerous challenges during his reign, including inving Germanic tribes and political instability. He was eventually captured by the Persian Empire."
 	},
 	{
 		"emperor": "Gallienus",
-		"reign": "253–268",
-		"stability_ranking": 0,
+		"reign": "253-268",
+		"stability_ranking": 2,
 		"description": "Gallienus ruled during a time of great instability and was faced with numerous military threats, including invasions by the Goths and other barbarian tribes. Despite these challenges, he was able to maintain control over much of the empire and is credited with making important reforms to the Roman army."
 	},
 	{
 		"emperor": "Claudius II",
-		"reign": "268–270",
-		"stability_ranking": 0,
+		"reign": "268-270",
+		"stability_ranking": 5,
 		"description": "Known as 'Claudius the Goth,' Claudius II was a successful military leer who was able to defeat the Goths and other invers. He is also known for his persecution of Christians, which resulted in his being remembered as a cruel and tyrannical ruler."
 	},
 	{
 		"emperor": "Aurelian",
-		"reign": "270–275",
-		"stability_ranking": 0,
+		"reign": "270-275",
+		"stability_ranking": 9,
 		"description": "Aurelian was a highly capable military leer who was able to restore stability to the empire after years of chaos and turmoil. He was able to successfully defend the empire against barbarian invasions and also me important reforms to the ministrative structure of the empire."
 	},
 	{
 		"emperor": "Tacitus",
-		"reign": "275–276",
-		"stability_ranking": 0,
-		"description": "Tacitus was a brief and largely unknown ruler who h a short but stable reign."
+		"reign": "275-276",
+		"stability_ranking": 6,
+		"description": "Tacitus was a brief and largely unknown ruler who had a short but stable reign."
 	},
 	{
 		"emperor": "Probus",
-		"reign": "276–282",
-		"stability_ranking": 0,
+		"reign": "276-282",
+		"stability_ranking": 8,
 		"description": "Probus was a successful military leer who was able to repel invasions by the Goths and other barbarian tribes. He is also remembered for his contributions to agriculture and commerce, as well as for his support of the arts and sciences."
 	},
 	{
 		"emperor": "Carus",
-		"reign": "282–283",
-		"stability_ranking": 0,
+		"reign": "282-283",
+		"stability_ranking": 7,
 		"description": "Carus was a successful military leer who is best known for his campaigns against the Persians. He died suddenly, leaving his sons Carinus and Numerian to continue his reign."
 	},
 	{
 		"emperor": "Numerian",
-		"reign": "283–284",
+		"reign": "283-284",
 		"stability_ranking": 6,
 		"description": "Numerian was the son of Carus and was declared emperor after his father's death. He ruled for only one year before his death, which was shrouded in mystery."
 	},
 	{
 		"emperor": "Diocletian",
-		"reign": "284–305",
+		"reign": "284-305",
 		"stability_ranking": 9,
 		"description": "Diocletian was a general who rose to power after Numerian's death. He reigned for 21 years and is known for his efforts to reform the ministration and military of the empire. He also initiated the 'Tetrarchy,' a system of rule by four emperors."
 	},
 	{
 		"emperor": "Maximian",
-		"reign": "286–305",
+		"reign": "286-305",
 		"stability_ranking": 8,
 		"description": "Maximian was a co-emperor with Diocletian and played a crucial role in expanding the empire's borders and maintaining stability."
 	},
 	{
 		"emperor": "Galerius",
-		"reign": "305–311",
+		"reign": "305-311",
 		"stability_ranking": 7,
 		"description": "Galerius was another co-emperor with Diocletian and Maximian. He was known for his military campaigns against the Persians and his role in the persecution of Christians."
 	},
 	{
 		"emperor": "Constantius I Chlorus",
-		"reign": "305–306",
+		"reign": "305-306",
 		"stability_ranking": 8,
 		"description": "Constantius I Chlorus was the father of Constantine the Great and served as a co-emperor with Diocletian and Maximian. He played a key role in securing the western part of the empire."
 	},
 	{
 		"emperor": "Severus II",
-		"reign": "306–307",
+		"reign": "306-307",
 		"stability_ranking": 5,
 		"description": "Severus II was declared emperor by Galerius, but his reign was short-lived as he was soon overthrown and executed by Maxentius."
 	},
 	{
 		"emperor": "Maxentius",
-		"reign": "306–312",
+		"reign": "306-312",
 		"stability_ranking": 6,
 		"description": "Maxentius was the son of the former emperor Maximian and ruled as emperor in Rome after Severus II was overthrown. He was eventually defeated by Constantine the Great at the Battle of Milvian Bridge."
 	},
 	{
 		"emperor": "Constantine I",
-		"reign": "306–337",
+		"reign": "306-337",
 		"stability_ranking": 7,
 		"description": "Constantine I was one of the most important emperors of the Roman Empire, known for his role in the establishment of Christianity as the empire's dominant religion and for his reforms to the empire's ministration and military."
 	},
 	{
 		"emperor": "Constans",
-		"reign": "337–350",
+		"reign": "337-350",
 		"stability_ranking": 5,
 		"description": "Constans was the youngest son of Constantine I and ruled over the western part of the empire. Despite initial military success, his reign was marked by internal conflict and rebellion."
 	},
 	{
 		"emperor": "Julius Constantius",
-		"reign": "337–361",
+		"reign": "337-361",
 		"stability_ranking": 5,
 		"description": "Julius Constantius ruled over the eastern part of the empire and was known for his persecution of non-Arian Christians."
 	},
 	{
 		"emperor": "Magnentius",
-		"reign": "350–353",
+		"reign": "350-353",
 		"stability_ranking": 5,
 		"description": "Magnentius was a usurper who declared himself emperor and fought against Constans and other claimants to the imperial throne."
 	},
 	{
 		"emperor": "Constantius II",
-		"reign": "337–361",
+		"reign": "337-361",
 		"stability_ranking": 6,
 		"description": "Constantius II was the son of Constantine I and ruled over the eastern part of the empire. He was known for his support of Arianism and for his military campaigns against the Persians."
 	},
 	{
 		"emperor": "Valentinian I",
-		"reign": "364–375",
+		"reign": "364-375",
 		"stability_ranking": 7,
 		"description": "Valentinian I was a strong military leer who divided the empire between himself and his brother Valens, with Valentinian ruling the western part and Valens the eastern part."
 	},
 	{
 		"emperor": "Valens",
-		"reign": "364–378",
+		"reign": "364-378",
 		"stability_ranking": 5,
 		"description": "Valens was the emperor of the eastern part of the empire and was known for his defeat against the Goths at the Battle of rianople in 378 ."
 	},
 	{
 		"emperor": "Theodosius I",
-		"reign": "379–395",
+		"reign": "379-395",
 		"stability_ranking": 7,
 		"description": "Theodosius I was the last emperor to rule over a united Roman Empire. He was known for his support of Nicene Christianity and for his successful military campaigns against the Goths."
 	}
