@@ -1,0 +1,331 @@
+[{
+    "emperor": "Augustus Caesar",
+    "reign": "27 BC – AD 14",
+    "stability_ranking": 9,
+    "description": "Augustus was the first Roman Emperor and is considered to have brought stability to the empire after a period of civil war. During his reign, the Roman Empire saw a period of relative peace and prosperity."
+},
+{
+    "emperor": "Tiberius",
+    "reign": "AD 14 – 37",
+    "stability_ranking": 7,
+    "description": "Tiberius was Augustus Caesar's successor, and the empire remained stable during his rule. However, there were some political tensions and rumors of Tiberius's misrule."
+},
+{
+    "emperor": "Caligula",
+    "reign": "AD 37 – 41",
+    "stability_ranking": 2,
+    "description": "Caligula's reign was marked by cruelty, megalomania, and political instability. The empire was not stable during his rule."
+},
+{
+    "emperor": "Claudius",
+    "reign": "AD 41 – 54",
+    "stability_ranking": 7,
+    "description": "Claudius was known for his administrative abilities and brought stability to the empire after the chaotic reign of Caligula."
+},
+{
+    "emperor": "Nero",
+    "reign": "54 – 68",
+    "stability_ranking": 4,
+    "description": "Nero's reign was marked by tyranny, cruelty, and political instability. He is infamous for blaming Christians for the Great Fire of Rome and for his persecution of the early Christian community."
+},
+{
+    "emperor": "Galba",
+    "reign": "68 – 69",
+    "stability_ranking": 6,
+    "description": "Galba's reign was brief, but the empire remained relatively stable."
+},
+{
+    "emperor": "Otho",
+    "reign": "69",
+    "stability_ranking": 3,
+    "description": "Otho's reign was short-lived and marked by political instability and civil war."
+},
+{
+    "emperor": "Vitellius",
+    "reign": "69",
+    "stability_ranking": 4,
+    "description": "Vitellius' rule was also brief and marked by political instability and civil war."
+},
+{
+    "emperor": "Vespasian",
+    "reign": "69 – 79",
+    "stability_ranking": 8,
+    "description": "Vespasian was a competent ruler and brought stability to the empire after a period of civil war."
+},
+{
+    "emperor": "Titus",
+    "reign": "79 – 81",
+    "stability_ranking": 8,
+    "description": "Titus was an able ruler and continued the stability brought by his father Vespasian."
+},
+{
+    "emperor": "Domitian",
+    "reign": "81-96",
+    "stability_ranking": 7,
+    "description": "Domitian was known for his military campaigns, building projects, and measures to restore traditional Roman values, but also for his paranoia and cruelty."
+},
+{
+    "emperor": "Nerva",
+    "reign": "96–98",
+    "stability_ranking": 8,
+    "description": "Nerva was known for his efforts to restore stability and conciliate the Senate, as well as for his adoption of the future emperor Trajan."
+},
+{
+    "emperor": "Trajan",
+    "reign": "98–117",
+    "stability_ranking": 9,
+    "description": "Trajan was known for his military conquests, expansion of the empire, and construction projects, as well as for his humane treatment of conquered peoples."
+},
+{
+    "emperor": "Hadrian",
+    "reign": "117–138",
+    "stability_ranking": 8,
+    "description": "Hadrian was known for his travels throughout the empire, building projects, and policy of defending the empire's borders, but also for his cruelty and persecution of Christians."
+},
+{
+    "emperor": "Antoninus Pius",
+    "reign": "138–161",
+    "stability_ranking": 9,
+    "description": "Antoninus Pius was known for his mildness, justice, and wise administration, as well as for his policy of maintaining peace within the empire."
+},
+{
+    "emperor": "Marcus Aurelius",
+    "reign": "161–180 AD",
+    "stability_ranking": 8,
+    "description": "Marcus Aurelius was known for his Stoic philosophy, military campaigns against invading tribes, and his efforts to improve the administration of the empire, but also for the plague that swept through the empire during his reign."
+},
+{
+    "emperor": "Commodus",
+    "reign": "180–192 AD",
+    "stability_ranking": 6,
+    "description": "Commodus was known for his military campaigns, lavish lifestyle, and patronage of the arts, but also for his cruelty, megalomania, and the decline of the empire during his reign."
+},
+{
+    "emperor": "Pertinax",
+    "reign": "AD 193",
+    "stability_ranking": 5,
+    "description": "Brief reign marked by efforts to restore discipline in the army and administration."
+},
+{
+    "emperor": "Didius Julianus",
+    "reign": "AD 193",
+    "stability_ranking": 3,
+    "description": "Unpopular rule marked by bribery and corruption."
+},
+{
+    "emperor": "Septimius Severus",
+    "reign": "AD 193–211",
+    "stability_ranking": 7,
+    "description": "Effective military leader who stabilized the empire after the tumultuous period following Commodus' reign."
+},
+{
+    "emperor": "Caracalla",
+    "reign": "AD 211–217",
+    "stability_ranking": 5,
+    "description": "Known for his cruelty and expansion of Roman citizenship, but also marked by political instability and military defeat."
+},
+{
+    "emperor": "Macrinus",
+    "reign": "AD 217–218",
+    "stability_ranking": 4,
+    "description": "First equestrian emperor, but faced opposition and military defeat."
+},
+{
+    "emperor": "Elagabalus",
+    "reign": "AD 218–222",
+    "stability_ranking": 2,
+    "description": "Notoriously decadent and unstable reign marked by religious controversy and political assassinations."
+},
+{
+    "emperor": "Alexander Severus",
+    "reign": "AD 222–235",
+    "stability_ranking": 6,
+    "description": "Attempted to restore stability to the empire, but faced opposition and military defeat."
+},
+{
+    "emperor": "Maximinus Thrax",
+    "reign": "235–238",
+    "stability_ranking": 4,
+    "description": "Maximinus Thrax was a tough and aggressive military commander who ruled with an iron fist but was unable to effectively govern the empire."
+},
+{
+    "emperor": "Gordian I",
+    "reign": "238",
+    "stability_ranking": 2,
+    "description": "Gordian I's reign was brief and marked by political instability, as he was unable to assert his authority and was eventually overthrown."
+},
+{
+    "emperor": "Gordian II",
+    "reign": "238",
+    "stability_ranking": 2,
+    "description": "Gordian II's reign was equally as short and tumultuous as his father's, as he was unable to effectively rule and was eventually killed in battle."
+},
+{
+    "emperor": "Pupienus and Balbinus",
+    "reign": "238",
+    "stability_ranking": 3,
+    "description": "Pupienus and Balbinus ruled jointly but their reign was marked by infighting and political instability."
+},
+{
+    "emperor": "Gordian III",
+    "reign": "238–244",
+    "stability_ranking": 5,
+    "description": "Gordian III was a young and inexperienced emperor who faced numerous challenges during his reign, but was able to maintain stability for a time."
+},
+{
+    "emperor": "Philip the Arab",
+    "reign": "244–249",
+    "stability_ranking": 4,
+    "description": "Philip the Arab faced numerous challenges during his reign, including economic problems and threats from invading Germanic tribes."
+},
+{
+    "emperor": "Decius",
+    "reign": "249–251",
+    "stability_ranking": 4,
+    "description": "Decius was a strong military leader who made efforts to revive the traditional Roman values, but his reign was marked by political instability and conflict with invading Germanic tribes."
+},
+{
+    "emperor": "Gallus",
+    "reign": "251–253",
+    "stability_ranking": 2,
+    "description": "Gallus was a weak and ineffective emperor who was unable to assert his authority and maintain stability, leading to his eventual downfall."
+},
+{
+    "emperor": "Aemilianus",
+    "reign": "253",
+    "stability_ranking": 2,
+    "description": "Aemilianus' reign was brief and marked by political instability, as he was unable to effectively rule and was eventually killed."
+},
+{
+    "emperor": "Valerian",
+    "reign": "253–260",
+    "stability_ranking": 4,
+    "description": "Valerian was an experienced military leader who faced numerous challenges during his reign, including invading Germanic tribes and political instability. He was eventually captured by the Persian Empire."
+},
+{
+    "emperor": "Gallienus",
+    "reign": "253–268",
+    "stability_ranking": 0,
+    "description": "Gallienus ruled during a time of great instability and was faced with numerous military threats, including invasions by the Goths and other barbarian tribes. Despite these challenges, he was able to maintain control over much of the empire and is credited with making important reforms to the Roman army."
+},
+{
+    "emperor": "Claudius II",
+    "reign": "268–270",
+    "stability_ranking": 0,
+    "description": "Known as 'Claudius the Goth,' Claudius II was a successful military leader who was able to defeat the Goths and other invaders. He is also known for his persecution of Christians, which resulted in his being remembered as a cruel and tyrannical ruler."
+},
+{
+    "emperor": "Aurelian",
+    "reign": "270–275",
+    "stability_ranking": 0,
+    "description": "Aurelian was a highly capable military leader who was able to restore stability to the empire after years of chaos and turmoil. He was able to successfully defend the empire against barbarian invasions and also made important reforms to the administrative structure of the empire."
+},
+{
+    "emperor": "Tacitus",
+    "reign": "275–276",
+    "stability_ranking": 0,
+    "description": "Tacitus was a brief and largely unknown ruler who had a short but stable reign."
+},
+{
+    "emperor": "Probus",
+    "reign": "276–282",
+    "stability_ranking": 0,
+    "description": "Probus was a successful military leader who was able to repel invasions by the Goths and other barbarian tribes. He is also remembered for his contributions to agriculture and commerce, as well as for his support of the arts and sciences."
+},
+{
+    "emperor": "Carus",
+    "reign": "282–283",
+    "stability_ranking": 0,
+    "description": "Carus was a successful military leader who is best known for his campaigns against the Persians. He died suddenly, leaving his sons Carinus and Numerian to continue his reign."
+},
+{
+    "emperor": "Numerian",
+    "reign": "283–284 AD",
+    "stability_ranking": 6,
+    "description": "Numerian was the son of Carus and was declared emperor after his father's death. He ruled for only one year before his death, which was shrouded in mystery."
+},
+{
+    "emperor": "Diocletian",
+    "reign": "284–305 AD",
+    "stability_ranking": 9,
+    "description": "Diocletian was a general who rose to power after Numerian's death. He reigned for 21 years and is known for his efforts to reform the administration and military of the empire. He also initiated the 'Tetrarchy,' a system of rule by four emperors."
+},
+{
+    "emperor": "Maximian",
+    "reign": "286–305 AD",
+    "stability_ranking": 8,
+    "description": "Maximian was a co-emperor with Diocletian and played a crucial role in expanding the empire's borders and maintaining stability."
+},
+{
+    "emperor": "Galerius",
+    "reign": "305–311 AD",
+    "stability_ranking": 7,
+    "description": "Galerius was another co-emperor with Diocletian and Maximian. He was known for his military campaigns against the Persians and his role in the persecution of Christians."
+},
+{
+    "emperor": "Constantius I Chlorus",
+    "reign": "305–306 AD",
+    "stability_ranking": 8,
+    "description": "Constantius I Chlorus was the father of Constantine the Great and served as a co-emperor with Diocletian and Maximian. He played a key role in securing the western part of the empire."
+},
+{
+    "emperor": "Severus II",
+    "reign": "306–307 AD",
+    "stability_ranking": 5,
+    "description": "Severus II was declared emperor by Galerius, but his reign was short-lived as he was soon overthrown and executed by Maxentius."
+},
+{
+    "emperor": "Maxentius",
+    "reign": "306–312 AD",
+    "stability_ranking": 6,
+    "description": "Maxentius was the son of the former emperor Maximian and ruled as emperor in Rome after Severus II was overthrown. He was eventually defeated by Constantine the Great at the Battle of Milvian Bridge."
+},
+{
+    "emperor": "Constantine I",
+    "reign": "306–337 AD",
+    "stability_ranking": 7,
+    "description": "Constantine I was one of the most important emperors of the Roman Empire, known for his role in the establishment of Christianity as the empire's dominant religion and for his reforms to the empire's administration and military."
+},
+{
+    "emperor": "Constans",
+    "reign": "337–350 AD",
+    "stability_ranking": 5,
+    "description": "Constans was the youngest son of Constantine I and ruled over the western part of the empire. Despite initial military success, his reign was marked by internal conflict and rebellion."
+},
+{
+    "emperor": "Julius Constantius",
+    "reign": "337–361 AD",
+    "stability_ranking": 5,
+    "description": "Julius Constantius ruled over the eastern part of the empire and was known for his persecution of non-Arian Christians."
+},
+{
+    "emperor": "Magnentius",
+    "reign": "350–353 AD",
+    "stability_ranking": 5,
+    "description": "Magnentius was a usurper who declared himself emperor and fought against Constans and other claimants to the imperial throne."
+},
+{
+    "emperor": "Constantius II",
+    "reign": "337–361 AD",
+    "stability_ranking": 6,
+    "description": "Constantius II was the son of Constantine I and ruled over the eastern part of the empire. He was known for his support of Arianism and for his military campaigns against the Persians."
+},
+{
+    "emperor": "Valentinian I",
+    "reign": "364–375 AD",
+    "stability_ranking": 7,
+    "description": "Valentinian I was a strong military leader who divided the empire between himself and his brother Valens, with Valentinian ruling the western part and Valens the eastern part."
+},
+{
+    "emperor": "Valens",
+    "reign": "364–378 AD",
+    "stability_ranking": 5,
+    "description": "Valens was the emperor of the eastern part of the empire and was known for his defeat against the Goths at the Battle of Adrianople in 378 AD."
+},
+{
+    "emperor": "Theodosius I",
+    "reign": "379–395 AD",
+    "stability_ranking": 7,
+    "description": "Theodosius I was the last emperor to rule over a united Roman Empire. He was known for his support of Nicene Christianity and for his successful military campaigns against the Goths."
+}
+]
