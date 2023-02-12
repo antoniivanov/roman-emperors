@@ -20,7 +20,7 @@
 		"emperor": "Claudius",
 		"reign": " 41 - 54",
 		"stability_ranking": 7,
-		"description": "Claudius was known for his ministrative abilities and brought stability to the empire after the chaotic reign of Caligula."
+		"description": "Claudius was known for his administrative abilities and brought stability to the empire after the chaotic reign of Caligula."
 	},
 	{
 		"emperor": "Nero",
@@ -134,7 +134,7 @@
 		"emperor": "Elagabalus",
 		"reign": " 218-222",
 		"stability_ranking": 2,
-		"description": "Notoriously decent and unstable reign marked by religious controversy and political assassinations."
+		"description": "Notoriously decrepit and unstable reign marked by religious controversy and political assassinations."
 	},
 	{
 		"emperor": "Alexander Severus",
@@ -218,7 +218,7 @@
 		"emperor": "Aurelian",
 		"reign": "270-275",
 		"stability_ranking": 9,
-		"description": "Aurelian was a highly capable military leer who was able to restore stability to the empire after years of chaos and turmoil. He was able to successfully defend the empire against barbarian invasions and also me important reforms to the ministrative structure of the empire."
+		"description": "Aurelian was a highly capable military leer who was able to restore stability to the empire after years of chaos and turmoil. He was able to successfully defend the empire against barbarian invasions and also me important reforms to the administrative structure of the empire."
 	},
 	{
 		"emperor": "Tacitus",
